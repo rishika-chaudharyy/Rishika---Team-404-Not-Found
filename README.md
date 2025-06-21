@@ -11,8 +11,7 @@ To completely redesign the official website of **Inlighn Tech** — a company of
 ---
 
 ## 🔥 Live Link
-
-rishika-team-404-not-found-7w7vxum5i-rishikas-projects-3a0c6027.vercel.app
+**rishika-team-404-not-found.vercel.app**
 
 ---
 
